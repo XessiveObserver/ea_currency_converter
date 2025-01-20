@@ -8,5 +8,5 @@ Gem::Specification.new do |s|
   s.email       = 'xessiveobserver@gmail.com'
   s.files       = ["lib/ea_currency_converter.rb"]
   s.homepage    = 'https://rubygems.org/gems/ea_currency_converter'
-  s.metadata    = { "source_code_uri" => "https://github.com/example/example" }
+  s.metadata    = { "source_code_uri" => "https://github.com/XessiveObserver/ea_currency_converter" }
 end
