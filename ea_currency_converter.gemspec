@@ -2,7 +2,7 @@ Gem::Specification.new do |s|
   s.name        = 'ea_currency_converter'
   s.version     = '0.1.0'
   s.licenses    = ['MIT']
-  s.summary     = "Easeas currency conversion in East Africa"
+  s.summary     = "Eases currency conversion in East Africa"
   s.description = "If your in need of an easy to use gem to assist in currency conversion"
   s.authors     = ["XessiveObserver"]
   s.email       = 'xessiveobserver@gmail.com'
