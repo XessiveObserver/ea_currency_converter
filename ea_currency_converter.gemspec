@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'ea_currency_converter'
-  s.version     = '0.1.1'
+  s.version     = '0.1.2'
   s.licenses    = ['MIT']
   s.summary     = "Eases currency conversion in East Africa"
   s.description = "If your in need of an easy to use gem to assist in currency conversion"

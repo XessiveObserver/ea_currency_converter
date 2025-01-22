@@ -6,7 +6,7 @@ module EACurrencyConverter
       'KES' => 115.0,    # Kenyan Shilling
       'UGX' => 3700.0,   # Ugandan Shilling
       'TZS' => 2300.0,   # Tanzanian Shilling
-      'RWF' => 1150.0,   # Rwandan Franc
+      'RWF' => 1150.0,    # Rwandan Franc
       'BIF' => 2100.0    # Burundian Franc
     }.freeze
 
